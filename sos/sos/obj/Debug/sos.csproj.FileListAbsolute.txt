@@ -1,0 +1,10 @@
+C:\Users\phonix\Desktop\sos oyunu\sos\sos\bin\Debug\sos.exe.config
+C:\Users\phonix\Desktop\sos oyunu\sos\sos\bin\Debug\sos.exe
+C:\Users\phonix\Desktop\sos oyunu\sos\sos\bin\Debug\sos.pdb
+C:\Users\phonix\Desktop\sos oyunu\sos\sos\obj\Debug\sos.csprojAssemblyReference.cache
+C:\Users\phonix\Desktop\sos oyunu\sos\sos\obj\Debug\sos.Form1.resources
+C:\Users\phonix\Desktop\sos oyunu\sos\sos\obj\Debug\sos.Properties.Resources.resources
+C:\Users\phonix\Desktop\sos oyunu\sos\sos\obj\Debug\sos.csproj.GenerateResource.cache
+C:\Users\phonix\Desktop\sos oyunu\sos\sos\obj\Debug\sos.csproj.CoreCompileInputs.cache
+C:\Users\phonix\Desktop\sos oyunu\sos\sos\obj\Debug\sos.exe
+C:\Users\phonix\Desktop\sos oyunu\sos\sos\obj\Debug\sos.pdb
